@@ -2,7 +2,7 @@
 
 Application Android utilisant l'architecture MVVM. Les appels réseaux se font via Retrofit et nous utilisons une API REST.
 
-![mvvm](https://user-images.githubusercontent.com/16464109/123554685-6fb7c680-d781-11eb-9e95-e17ee7016498.png)
+![mvvm](https://user-images.githubusercontent.com/16464109/123554708-89f1a480-d781-11eb-8269-1f658ef8cd15.png)
 
 # Structuration des packages :
 
