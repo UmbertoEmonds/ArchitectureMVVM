@@ -4,7 +4,7 @@ Application Android utilisant l'architecture MVVM. Les appels réseaux se font v
 
 ![mvvm](https://user-images.githubusercontent.com/16464109/123554708-89f1a480-d781-11eb-8269-1f658ef8cd15.png)
 
-# Structuration des packages :
+# Structuration des packages (à trouver dans app/src/main/mvvm) :
 
 ## activity
 
