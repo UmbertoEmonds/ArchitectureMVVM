@@ -35,7 +35,7 @@ La classe RetrofitBuilder permet de renvoyer un objet unique et construit de Ret
 ## viewmodel
 
 Ce package contient toutes nos classes héritant de ViewModel, ces classes exposent des méthodes qui seront appélées directement depuis nos activités.
-Ces méthodes (getUsers() et deleteUsers(id: String)) font appel au repository dédié et renvoient des objets de type MutableLiveData, qui seront observées
-dans nos activitées. Le ViewModel (qui est référencé dans l'activité) garde en mémoire nos données chargées, elle survivent donc par exemple à une rotation de
+Ces méthodes (getUsers() et deleteUser(id: String)) font appel au repository dédié et renvoient des objets de type MutableLiveData, qui seront observées
+dans nos activités. Le ViewModel (qui est référencé dans l'activité) garde en mémoire nos données chargées, elle survivent donc par exemple à une rotation de
 l'écran ce qui nous permet de limiter nos requêtes HTTP...
 
